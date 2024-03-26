@@ -1,0 +1,7 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/khanhnvm-macbook/Developer/c_fundamental/C/28Tech/Session1_DataType_Function_For_DoWhile_While/Episode25_Exercise_ForLoop_6_To_10/Bai10_Kiem_Tra_So_Nhap_Vao_2022/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000EA0, symSize: 0xD2 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000EA0, symSize: 0xD2 }
+...
