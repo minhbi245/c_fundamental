@@ -8,7 +8,7 @@ using namespace std;
  */
 
 /*
- * Challenge solve the proble
+ * Challenge solve the problem
  * Change from fahrenheit to celsius
  *
  * Input: fahrenheit

@@ -1,0 +1,3 @@
+/Volumes/My Projects/Developer/c_fundamental/C/Code_With_Mosh/Initializing_Variable/cmake-build-debug/CMakeFiles/Initializing_Variable.dir
+/Volumes/My Projects/Developer/c_fundamental/C/Code_With_Mosh/Initializing_Variable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/My Projects/Developer/c_fundamental/C/Code_With_Mosh/Initializing_Variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
