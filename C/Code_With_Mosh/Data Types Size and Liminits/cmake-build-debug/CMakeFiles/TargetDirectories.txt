@@ -1,0 +1,3 @@
+/Volumes/My Projects/Developer/c_fundamental/C/Code_With_Mosh/Data Types Size and Liminits/cmake-build-debug/CMakeFiles/Data_Types_Size_and_Liminits.dir
+/Volumes/My Projects/Developer/c_fundamental/C/Code_With_Mosh/Data Types Size and Liminits/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/My Projects/Developer/c_fundamental/C/Code_With_Mosh/Data Types Size and Liminits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

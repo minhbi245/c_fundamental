@@ -1,5 +1,3 @@
 # ninja log v5
-0	1425	1712638616137208265	CMakeFiles/Initializing_Variable.dir/main.cpp.o	71a97b9a8ee66e5e
-1429	1505	1712638616222847524	Initializing_Variable	47c35f320d8ff7ac
-9	866	1712638626228304960	CMakeFiles/Initializing_Variable.dir/main.cpp.o	71a97b9a8ee66e5e
-866	939	1712638626308967228	Initializing_Variable	47c35f320d8ff7ac
+15	895	1712737089915228527	CMakeFiles/Initializing_Variable.dir/main.cpp.o	71a97b9a8ee66e5e
+895	988	1712737090014132345	Initializing_Variable	47c35f320d8ff7ac
